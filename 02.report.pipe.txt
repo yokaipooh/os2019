@@ -1,0 +1,123 @@
+1.
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <emItem blockID="3108c151-9f25-4eca-8d80-a2fbb2d9bd07" id="updater-pro-unlisted@mozilla.com">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g194">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1072">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g278">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g204">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1220">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g232">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g992">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g146">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g37">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1219">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1068">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g206">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1251">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g144">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g150">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1071">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g35">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g192">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g148">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1070">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g984">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g280">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g974">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1069">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g36">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g511">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g198">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1218">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g230">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g234">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1215">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1216">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1221">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1073">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g208">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g202">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1124">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g1217">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    <gfxBlacklistEntry blockID="g200">
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:    </gfxBlacklistEntry>
+.mozilla/firefox/o5u68ztg.default/blocklist.xml:</blocklist>
+
+2.
+wc -l /etc/passwd
+35 /etc/passwd
+3.
+free
+             total       used       free     shared    buffers     cached
+Mem:       1017560     890572     126988       2576      64460     297652
+-/+ buffers/cache:     528460     489100
+Swap:      1046524     110636     935888
+4.
+cat /proc/cpuinfo
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 58
+model name	: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x19
+cpu MHz		: 2494.342
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc pni pclmulqdq monitor ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt aes xsave avx rdrand hypervisor lahf_lm fsgsbase
+bogomips	: 4988.68
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+5.
+find -type f -name *.jpg | wc -l
+0
+
+
