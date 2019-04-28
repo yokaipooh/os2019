@@ -1,0 +1,14 @@
+1. grep systemd /proc/sched_debug
+   systemd-udevd   280       378.102131       580   120       378.102131       331.603609     84825.318246 0 /autogroup-58
+  systemd-logind   441       120.405294       281   120       120.405294       121.995219   1619191.264117 0 /autogroup-105
+ systemd-hostnam  3134      4544.856513        13   120      4544.856513        10.022348        68.974587 0 /autogroup-93
+2. grep switch /proc/280/sched
+nr_switches                                  :                  580
+nr_voluntary_switches                        :                  103
+nr_involuntary_switches                      :                  477
+3. grep switch /proc/3134/sched
+nr_switches                                  :                   13
+nr_voluntary_switches                        :                    4
+nr_involuntary_switches                      :                    9
+
+
