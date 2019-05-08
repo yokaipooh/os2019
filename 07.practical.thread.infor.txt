@@ -1,0 +1,9 @@
+1.
+yokaipooh@yokaipooh-VirtualBox:~$ ps aux | grep -i firefox
+yokaipo+  2270 18.8 14.3 834284 146152 ?       Sl   20:15   0:03 /usr/lib/firefox/firefox
+yokaipo+  2345  0.0  0.1  16036  1872 pts/6    S+   20:15   0:00 grep --color=auto -i firefox
+2.
+yokaipooh@yokaipooh-VirtualBox:~$ ps -o nlwp 2270
+NLWP
+  37
+
