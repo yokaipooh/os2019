@@ -78,9 +78,10 @@ int main()
 	printf("WELCOME TO THE BEEF-HOUSE !!\n");
 	printf("HOPE YOU ENJOY IT\n");
 	pthread_create(&tid,NULL,produThread,NULL);
-	pthread_join(tid,NULL);
 	printf("2 customers are coming to buy beef");
 	pthread_create(&tid,NULL,consuThread,NULL);
+	pthread_join(tid,NULL);
+	pthread_join(tid,NULL);
 	pthread_exit(NULL);
 }
 
